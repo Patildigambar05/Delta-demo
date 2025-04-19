@@ -1,1 +1,2 @@
-# Delta-demo
+# Digambar Patil
+This repo is only for intro of git and gitHub
